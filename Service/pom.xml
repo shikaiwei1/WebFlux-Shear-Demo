@@ -13,7 +13,7 @@
 
     <dependencies>
         <dependency>
-            <groupId>com.avenger</groupId>
+            <groupId>com.naiba</groupId>
             <artifactId>common</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
